@@ -1,0 +1,32 @@
+.panda-bg-color{
+    background-color:#fceae8;
+}
+.btn-price{
+    background-color:#ff3886;
+    color:#fff;
+    font-weight: 500;
+}
+.btn-text{
+    color: #ff3886;
+}
+.categories img{
+    width: 100px;    
+}
+.pre-bg{
+    background-color:#ff3886;
+    color:#fff;
+    font-weight: 500;
+}
+.subscribe-input{
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    border: 1px solid rgb(206, 212, 218);
+    border-radius: 0.25rem;
+}
+.subscribe-input:focus{
+    border: 1px solid #ff3886;
+}
+footer p small{
+    font-weight: 700;
+    color: #ff3886;
+}
